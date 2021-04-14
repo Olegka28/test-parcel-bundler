@@ -1,0 +1,10 @@
+@import "./components/Footer/styles.module.scss";
+@import "./components/Header/styles.module.scss";
+
+$primary-color: white;
+$bg: black;
+
+h1 {
+  color: $primary-color;
+  background-color: $bg;
+}
